@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(1181,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(2438,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(2443,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(2463,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(2468,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(4565,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(4570,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(4589,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(4594,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lenovo\Desktop\Project3\Project3\Source.cpp(3641,12): warning C4101: 'Time_Slot': unreferenced local variable
+  Project3.vcxproj -> C:\Users\lenovo\Desktop\Project3\x64\Debug\Project3.exe
